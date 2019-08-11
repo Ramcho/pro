@@ -1,0 +1,15 @@
+p{
+	font-family: cursive;
+	font-weight:bold;
+	font-style: italic;
+	font-size: 30px;
+	color: red;
+	background-color: yellow;
+}
+h1{
+	background-color: yellow;
+	padding: 10px 20px 10px 20px ;/*top right bottom left*/
+	border-top:  8px ridge red;
+	margin:10px 30px 60px 40px;
+
+}
